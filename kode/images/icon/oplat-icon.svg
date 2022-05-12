@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_75" data-name="Rectangle 75" width="24" height="24" transform="translate(81 780)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="oplat-icon" transform="translate(-81 -780)" clip-path="url(#clip-path)">
+    <g id="payment-method" transform="translate(81 780)">
+      <g id="Group_149" data-name="Group 149">
+        <path id="Path_169" data-name="Path 169" d="M22.209,3.861H16.263V2.24A1.788,1.788,0,0,0,14.472.454H1.786A1.787,1.787,0,0,0,0,2.24V21.76a1.787,1.787,0,0,0,1.786,1.786H14.472a1.792,1.792,0,0,0,1.791-1.786V19.331h5.946A1.792,1.792,0,0,0,24,17.545V5.652A1.8,1.8,0,0,0,22.209,3.861Zm-1.761,1.2V18.133H19.3V5.058Zm-5.383,16.7a.591.591,0,0,1-.594.589H1.786a.59.59,0,0,1-.589-.589V2.24a.59.59,0,0,1,.589-.589H14.472a.594.594,0,0,1,.594.589Zm1.2-16.7H18.1V18.133H16.263ZM22.8,17.54a.591.591,0,0,1-.594.589h-.559V5.058H22.2a.594.594,0,0,1,.594.589Z" fill="#9fa9bc"/>
+        <path id="Path_170" data-name="Path 170" d="M4.7,11.159h6.859a1.526,1.526,0,0,0,1.527-1.527V5.148a1.526,1.526,0,0,0-1.527-1.527H4.7A1.526,1.526,0,0,0,3.173,5.148V9.633A1.526,1.526,0,0,0,4.7,11.159ZM4.37,5.148A.329.329,0,0,1,4.7,4.819h6.859a.329.329,0,0,1,.329.329V9.633a.329.329,0,0,1-.329.329H4.7a.329.329,0,0,1-.329-.329Z" fill="#9fa9bc"/>
+        <path id="Path_171" data-name="Path 171" d="M4.565,13.644H3.771a.6.6,0,1,0,0,1.2h.793a.6.6,0,1,0,0-1.2Z" fill="#9fa9bc"/>
+        <path id="Path_172" data-name="Path 172" d="M8.525,13.644H7.732a.6.6,0,1,0,0,1.2h.793a.6.6,0,1,0,0-1.2Z" fill="#9fa9bc"/>
+        <path id="Path_173" data-name="Path 173" d="M12.491,13.644H11.7a.6.6,0,0,0,0,1.2h.793a.6.6,0,0,0,0-1.2Z" fill="#9fa9bc"/>
+        <path id="Path_174" data-name="Path 174" d="M4.565,16.348H3.771a.6.6,0,1,0,0,1.2h.793a.6.6,0,1,0,0-1.2Z" fill="#9fa9bc"/>
+        <path id="Path_175" data-name="Path 175" d="M8.525,16.348H7.732a.6.6,0,1,0,0,1.2h.793a.6.6,0,1,0,0-1.2Z" fill="#9fa9bc"/>
+        <path id="Path_176" data-name="Path 176" d="M12.491,16.348H11.7a.6.6,0,1,0,0,1.2h.793a.6.6,0,1,0,0-1.2Z" fill="#9fa9bc"/>
+        <path id="Path_177" data-name="Path 177" d="M4.565,19.051H3.771a.6.6,0,1,0,0,1.2h.793a.6.6,0,1,0,0-1.2Z" fill="#9fa9bc"/>
+        <path id="Path_178" data-name="Path 178" d="M8.525,19.051H7.732a.6.6,0,1,0,0,1.2h.793a.6.6,0,1,0,0-1.2Z" fill="#9fa9bc"/>
+        <path id="Path_179" data-name="Path 179" d="M12.491,19.051H11.7a.6.6,0,1,0,0,1.2h.793a.6.6,0,1,0,0-1.2Z" fill="#9fa9bc"/>
+      </g>
+    </g>
+  </g>
+</svg>

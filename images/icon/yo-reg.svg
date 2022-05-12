@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="39.314" height="35.364" viewBox="0 0 39.314 35.364">
+  <defs>
+    <filter id="Rectangle_38" x="4" y="0" width="35.314" height="35.314" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feFlood flood-color="#99a7b5" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_45" x="0" y="5" width="30.364" height="30.364" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur-2"/>
+      <feFlood flood-color="#99a7b5" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="yo-reg" transform="translate(5)">
+    <g id="Ellipse_8" data-name="Ellipse 8" fill="#fff" stroke="#21d0c3" stroke-width="2">
+      <circle cx="15" cy="15" r="15" stroke="none"/>
+      <circle cx="15" cy="15" r="14" fill="none"/>
+    </g>
+    <g id="Group_136" data-name="Group 136" transform="translate(7 9)">
+      <g transform="matrix(1, 0, 0, 1, -12, -9)" filter="url(#Rectangle_38)">
+        <rect id="Rectangle_38-2" data-name="Rectangle 38" width="14" height="2" rx="1" transform="translate(16 18.9) rotate(-45)" fill="#21d0c3"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -12, -9)" filter="url(#Rectangle_45)">
+        <rect id="Rectangle_45-2" data-name="Rectangle 45" width="7" height="2" rx="1" transform="translate(16.95 20.36) rotate(-135)" fill="#21d0c3"/>
+      </g>
+    </g>
+  </g>
+</svg>

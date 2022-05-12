@@ -1,0 +1,84 @@
+<svg id="calendar" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 11.028 11">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Group_5" data-name="Group 5">
+    <g id="Group_4" data-name="Group 4">
+      <path id="Path_2" data-name="Path 2" class="cls-1" d="M9.735.859H9.218V0H8.357V.859H2.671V0H1.809V.859H1.292A1.292,1.292,0,0,0,0,2.148V9.711A1.292,1.292,0,0,0,1.292,11H9.735a1.292,1.292,0,0,0,1.292-1.289V2.148A1.292,1.292,0,0,0,9.735.859Zm.431,8.852a.431.431,0,0,1-.431.43H1.292a.431.431,0,0,1-.431-.43V4.039h9.3Zm0-6.531H.862V2.148a.431.431,0,0,1,.431-.43h.517v.859h.862V1.719H8.357v.859h.862V1.719h.517a.431.431,0,0,1,.431.43Z"/>
+    </g>
+  </g>
+  <g id="Group_7" data-name="Group 7" transform="translate(1.563 4.96)">
+    <g id="Group_6" data-name="Group 6">
+      <rect id="Rectangle_5" data-name="Rectangle 5" class="cls-1" width="0.822" height="0.82"/>
+    </g>
+  </g>
+  <g id="Group_9" data-name="Group 9" transform="translate(3.373 4.96)">
+    <g id="Group_8" data-name="Group 8">
+      <rect id="Rectangle_6" data-name="Rectangle 6" class="cls-1" width="0.822" height="0.82"/>
+    </g>
+  </g>
+  <g id="Group_11" data-name="Group 11" transform="translate(5.103 4.96)">
+    <g id="Group_10" data-name="Group 10">
+      <rect id="Rectangle_7" data-name="Rectangle 7" class="cls-1" width="0.822" height="0.82"/>
+    </g>
+  </g>
+  <g id="Group_13" data-name="Group 13" transform="translate(6.832 4.96)">
+    <g id="Group_12" data-name="Group 12">
+      <rect id="Rectangle_8" data-name="Rectangle 8" class="cls-1" width="0.822" height="0.82"/>
+    </g>
+  </g>
+  <g id="Group_15" data-name="Group 15" transform="translate(8.643 4.96)">
+    <g id="Group_14" data-name="Group 14">
+      <rect id="Rectangle_9" data-name="Rectangle 9" class="cls-1" width="0.822" height="0.82"/>
+    </g>
+  </g>
+  <g id="Group_17" data-name="Group 17" transform="translate(1.563 6.686)">
+    <g id="Group_16" data-name="Group 16">
+      <rect id="Rectangle_10" data-name="Rectangle 10" class="cls-1" width="0.822" height="0.82"/>
+    </g>
+  </g>
+  <g id="Group_19" data-name="Group 19" transform="translate(3.373 6.686)">
+    <g id="Group_18" data-name="Group 18">
+      <rect id="Rectangle_11" data-name="Rectangle 11" class="cls-1" width="0.822" height="0.82"/>
+    </g>
+  </g>
+  <g id="Group_21" data-name="Group 21" transform="translate(5.103 6.686)">
+    <g id="Group_20" data-name="Group 20">
+      <rect id="Rectangle_12" data-name="Rectangle 12" class="cls-1" width="0.822" height="0.82"/>
+    </g>
+  </g>
+  <g id="Group_23" data-name="Group 23" transform="translate(6.832 6.686)">
+    <g id="Group_22" data-name="Group 22">
+      <rect id="Rectangle_13" data-name="Rectangle 13" class="cls-1" width="0.822" height="0.82"/>
+    </g>
+  </g>
+  <g id="Group_25" data-name="Group 25" transform="translate(1.563 8.411)">
+    <g id="Group_24" data-name="Group 24">
+      <rect id="Rectangle_14" data-name="Rectangle 14" class="cls-1" width="0.822" height="0.82"/>
+    </g>
+  </g>
+  <g id="Group_27" data-name="Group 27" transform="translate(3.373 8.411)">
+    <g id="Group_26" data-name="Group 26">
+      <rect id="Rectangle_15" data-name="Rectangle 15" class="cls-1" width="0.822" height="0.82"/>
+    </g>
+  </g>
+  <g id="Group_29" data-name="Group 29" transform="translate(5.103 8.411)">
+    <g id="Group_28" data-name="Group 28">
+      <rect id="Rectangle_16" data-name="Rectangle 16" class="cls-1" width="0.822" height="0.82"/>
+    </g>
+  </g>
+  <g id="Group_31" data-name="Group 31" transform="translate(6.832 8.411)">
+    <g id="Group_30" data-name="Group 30">
+      <rect id="Rectangle_17" data-name="Rectangle 17" class="cls-1" width="0.822" height="0.82"/>
+    </g>
+  </g>
+  <g id="Group_33" data-name="Group 33" transform="translate(8.643 6.686)">
+    <g id="Group_32" data-name="Group 32">
+      <rect id="Rectangle_18" data-name="Rectangle 18" class="cls-1" width="0.822" height="0.82"/>
+    </g>
+  </g>
+</svg>

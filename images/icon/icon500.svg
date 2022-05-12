@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25.955" height="25.954" viewBox="0 0 25.955 25.954">
+  <g id="icon500" transform="translate(-902 -25)">
+    <rect id="Rectangle_69" data-name="Rectangle 69" width="19" height="19" rx="5" transform="matrix(0.259, 0.966, -0.966, 0.259, 921.718, 26.244)" fill="#ff1743"/>
+    <rect id="Rectangle_70" data-name="Rectangle 70" width="19" height="19" rx="5" transform="translate(911.5 25) rotate(30)" fill="#ff1743"/>
+    <text id="_500" data-name="+500" transform="translate(915 41)" fill="#fff" font-size="8" font-family="SegoeUI, Segoe UI"><tspan x="-9.205" y="0">+500</tspan></text>
+  </g>
+</svg>

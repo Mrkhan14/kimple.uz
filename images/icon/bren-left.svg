@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 16.757">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #101c36;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Icon_Chevron_left" data-name="Icon Chevron left" class="cls-1" d="M16.228,3.092l-6.4,6.4a1.776,1.776,0,0,1-1.446.5,1.781,1.781,0,0,1-1.447-.5l-6.4-6.4A1.811,1.811,0,0,1,3.09.53L8.379,5.818,13.665.53a1.812,1.812,0,0,1,2.562,2.562Z" transform="translate(10) rotate(90)"/>
+</svg>

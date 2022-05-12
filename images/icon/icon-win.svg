@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="50" height="50" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_5" data-name="Rectangle 5" width="50" height="50" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Repeat_Grid_5" data-name="Repeat Grid 5" clip-path="url(#clip-path)">
+    <g transform="translate(43 80)">
+      <g id="Mask_Group_1" data-name="Mask Group 1" transform="translate(-43 -80)" clip-path="url(#clip-path-2)">
+        <g id="courier" transform="translate(0 4.133)">
+          <g id="Group_16" data-name="Group 16">
+            <g id="Group_19" data-name="Group 19">
+              <g id="computer-screen">
+                <path id="Path_127" data-name="Path 127" d="M47.285,4.143V4.07H2.691v.073A2.951,2.951,0,0,0,0,6.784V36.091a2.876,2.876,0,0,0,.391,1.466A2.733,2.733,0,0,0,2.936,39.05h16.1v4.06H15.974a1.346,1.346,0,0,0,0,2.693H34a1.347,1.347,0,1,0,0-2.693H30.944V39.05h16.1a2.725,2.725,0,0,0,2.544-1.493A2.954,2.954,0,0,0,50,36.091V6.784A3.019,3.019,0,0,0,47.285,4.143Zm0,2.886V36.092c0,.172-.073.245-.245.245H2.935c-.171,0-.245-.073-.245-.245V6.784H47.285v.245Z" transform="translate(0 -4.07)" fill="#0061ff"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

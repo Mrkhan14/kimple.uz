@@ -1,0 +1,14 @@
+<svg id="play-button" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23 23">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="_x33_56._Play" transform="translate(0 0)">
+    <g id="Group_1" data-name="Group 1" transform="translate(0)">
+      <path id="Path_1" data-name="Path 1" class="cls-1" d="M21.457,5.753a11.5,11.5,0,1,0-4.209,15.707A11.5,11.5,0,0,0,21.457,5.753ZM16.1,19.467A9.2,9.2,0,1,1,19.466,6.9,9.2,9.2,0,0,1,16.1,19.467Zm-.46-8.433L9.618,7.523c-.549-.32-.991-.064-.988.57l.031,6.97c0,.634.451.893,1,.575l5.975-3.45A.61.61,0,0,0,15.639,11.034Z" transform="translate(0 -0.002)"/>
+    </g>
+  </g>
+</svg>

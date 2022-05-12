@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22.729" height="27.006" viewBox="0 0 22.729 27.006">
+  <g id="icon100" transform="translate(223.093 78)">
+    <g id="Group_141" data-name="Group 141" transform="translate(38.908 0)">
+      <path id="Path_164" data-name="Path 164" d="M56.608,6.951c-.032-.71-.032-1.389-.032-2.067a.952.952,0,0,0-.969-.969A12.976,12.976,0,0,1,45.951.266a1,1,0,0,0-1.356,0,12.976,12.976,0,0,1-9.656,3.649.952.952,0,0,0-.969.969c0,.678,0,1.356-.032,2.067-.129,6.782-.323,16.083,11.013,19.99l.323.065.323-.065C56.9,23.034,56.737,13.766,56.608,6.951Z" transform="translate(-295.908 -78)" fill="#ffa000"/>
+      <text id="_100" data-name="100" transform="translate(-251 -62)" fill="#fff" font-size="9" font-family="SegoeUI, Segoe UI"><tspan x="-7.277" y="0">100</tspan></text>
+    </g>
+  </g>
+</svg>
